@@ -726,6 +726,7 @@ class App(Gtk.Window):
         self.fill_option_display()
         self.color_picker_display()
         self.swww_or_awww_options_display()
+        self.hyprland_restart_button_display()
         self.show_all()
 
 
